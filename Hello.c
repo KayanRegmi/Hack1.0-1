@@ -1,5 +1,5 @@
 /**
- * Author: Caleb Bundy
+ * Author: Caleb Bundy 
  * Date: 2018/08/23
  *
  * A simple hello world program in C
@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Caleb Bundy Computer Science\n");
-
+  printf("Kayan Regmi Computer SCience\n");
+  //Edited By Kayan Regmi
   return 0;
 }
